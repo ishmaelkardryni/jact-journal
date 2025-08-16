@@ -1,0 +1,21 @@
+{
+  "title": "Journal of Albanian Conspiracy Studies — Issue 1",
+  "upload_type": "publication",
+  "publication_type": "journal",
+  "description": "Open-access journal issue with articles, PDFs, and site sources.",
+  "creators": [
+    { "name": "Kardryni, Ishmael", "orcid": "10.5281/zenodo.16884160", "affiliation": "University of Tirana" }
+  ],
+  "contributors": [
+    { "name": "Weiler, Robert", "type": "Editor" }
+  ],
+  "license": "cc-by-4.0",
+  "keywords": ["Albania", "conspiracy", "media studies", "history"],
+  "related_identifiers": [
+    { "identifier": "https://albanianconspiracy.study", "relation": "isDocumentedBy", "scheme": "url" }
+  ],
+  "communities": [
+    { "identifier": "openscience" }
+  ],
+  "notes": "Built from GitHub release v1.0.0; static site for GitHub Pages in /docs."
+}
